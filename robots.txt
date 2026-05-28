@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://pizzeria-yenisei.onrender.com/sitemap.xml
